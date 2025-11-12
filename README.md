@@ -22,3 +22,8 @@ Este projeto tem como objetivo disponibilizar uma interface web simples para ace
 1. Clone o repositório:
    ```bash
    git clone https://github.com/gustavoguga18/BoxTV.git
+
+   
+## 💻 Prévia do Projeto
+
+![BoxTV funcionando](Captura de tela 2025-11-12 144109.png)
