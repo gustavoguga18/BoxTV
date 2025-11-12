@@ -26,4 +26,4 @@ Este projeto tem como objetivo disponibilizar uma interface web simples para ace
    
 ## 💻 Prévia do Projeto
 
-![BoxTV funcionando](Captura de tela 2025-11-12 144109.png)
+![BoxTV funcionando](BoxTV/imagens/Captura de tela 2025-11-12 144109.png)
